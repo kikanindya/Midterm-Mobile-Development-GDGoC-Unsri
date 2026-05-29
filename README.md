@@ -146,6 +146,4 @@ Singkatnya, proyek midterm ini harus berupa:
 Tema aplikasi bebas, tetapi kualitas implementasi, kerapian kode, integrasi backend, pengalaman pengguna, dan dokumentasi repository akan sangat memengaruhi hasil penilaian.
 
 Happy Coding Folks! 
-<p align="left">
-  <img src="https://tenor.com/ulgIcgM2ASk.gif" width="500" />
-</p>
+<div class="tenor-gif-embed" data-postid="16936325164577565322" data-share-method="host" data-aspect-ratio="1.71631" data-width="100%"><a href="https://tenor.com/view/butcher-billy-comics-vought-superhero-gif-16936325164577565322">Butcher Billy GIF</a>from <a href="https://tenor.com/search/butcher-gifs">Butcher GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
