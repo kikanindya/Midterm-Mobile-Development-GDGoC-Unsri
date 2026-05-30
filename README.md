@@ -1,6 +1,6 @@
 # 📱MIDTERM MOBILE DEVELOPMENT
 
-Repositori ini digunakan untuk **pengumpulan tugas Midterm Mobile Development**.
+Repositori ini digunakan untuk **pengumpulan Midterm Mobile Development**.
 
 ## Sistem Pengumpulan
 
@@ -8,13 +8,13 @@ Repositori ini digunakan untuk **pengumpulan tugas Midterm Mobile Development**.
 - **Deadline**: **28 Juni 2026, 23.59 WIB**
 - **Tema aplikasi**: bebas
 - **Ketentuan utama**:
+  - Tema aplikasi **dibebaskan**, namun **seberapa menarik tema** akan berpengaruh ke **penilaian**
   - Wajib menggunakan **Flutter**
   - Wajib memiliki **backend**
   - Proyek harus berupa **aplikasi fullstack mobile development**
   - Tidak cukup hanya membuat UI Flutter
   - Repository hasil fork wajib memiliki **README baru** yang menjelaskan proyek masing-masing
-  - README proyek harus berisi cara menjalankan aplikasi, versi dan dependensi yang dipakai, fitur yang tersedia, dan informasi backend yang digunakan
-  - Hasil akhir harus menyertakan **build installer Android ataupun iOS** tergantung device yang dipakai
+  - README proyek harus berisi **cara menjalankan aplikasi, versi dan dependensi yang dipakai, fitur yang tersedia, dan informasi backend yang digunakan**
 
 ---
 
@@ -123,10 +123,9 @@ Repository hasil fork minimal harus memuat:
 - Source code aplikasi Flutter
 - Source code backend jika menggunakan backend tradisional
 - README baru yang menjelaskan proyek
-- Instruksi instalasi dan cara menjalankan
+- Instruksi cara menjalankan kode
 - Daftar fitur aplikasi
 - Informasi endpoint API atau dokumentasi backend
-- Build installer untuk Android dan iOS
 
 ---
 
